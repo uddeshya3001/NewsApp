@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Ashley Belanger",
+          "title": "From CZ to SBF, 2023 was the year of the fallen crypto bro",
+          "description": "Going from zero to billionaire to zero is no crypto bro's dream.",
+          "url": "https://arstechnica.com/tech-policy/2023/12/from-cz-to-sbf-2023-was-the-year-of-the-fallen-crypto-bro/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/crypto-bros-framed-760x380.jpg",
+          "publishedAt": "2023-12-22T13:04:15+00:00",
+          "content": "59\r\nLooking back, 2023 will likely be remembered as the year of the fallen crypto bro.\r\nWhile celebrities like Kim Kardashian and Matt Damon last year faced public backlash after shilling for cryptoc… [+3743 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Wired",
+          "title": "The 16 Best Books of 2023",
+          "description": "From a rollicking crypto investigation to an unexpectedly moving novel about poetry-spouting AI, these are the best books we read in 2023.",
+          "url": "https://www.wired.com/story/best-books-of-2023/",
+          "urlToImage": "https://media.wired.com/photos/657b907c703ca276dc43f03c/191:100/w_1280,c_limit/culture_best_books_2023.jpg",
+          "publishedAt": "2023-12-22T12:00:00Z",
+          "content": "Its hard to find something pithy to say about 2023, a year of dissonant extremes, when wildfires devoured Canadian forests, Twitter withered into X, the Titan submersible imploded into infamy, Silico… [+13055 chars]"
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Jeff Horwitz, Katherine Blunt",
+          "title": "A ‘Recipe for Disaster’: Insiders Warned Meta’s Privacy Push Would Shield Child Predators",
+          "description": "The company’s own child-safety experts sounded the alarm about efforts to encrypt messages on Instagram and Facebook. This month, it started doing it anyway.",
+          "url": "https://www.wsj.com/tech/encryption-instagram-facebook-messages-a89ebe07?mod=hp_lead_pos10",
+          "urlToImage": "https://images.wsj.net/im-903673/social",
+          "publishedAt": "2023-12-22T10:30:00Z",
+          "content": "When Meta Platforms began rolling out encryption for Facebook direct messages this month, it was advancing a project that members of its safety staff have long warned would end in disaster. \r\nThe enc… [+461 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Wired",
+          "title": "The Race to Fill Crypto’s FTX-Shaped Hole",
+          "description": "When crypto exchange FTX collapsed, it left behind a hole in the market. From Backpack to OPNX, faces new and old are vying to fill it.",
+          "url": "https://www.wired.com/story/ftx-new-crypto-exchanges-backpack",
+          "urlToImage": "https://media.wired.com/photos/6580c28f88d7c228e2238f2b/191:100/w_1280,c_limit/business_ftx_crypto_exchange_market.jpg",
+          "publishedAt": "2023-12-21T12:00:00Z",
+          "content": "FTX demonstrated what can go wrong when a crypto exchange is given the latitude to operate in an opaque fashion and with minimal external oversight. It changed what is now expected of other exchanges… [+2468 chars]"
+      },
+      {
+          "source": {
+              "id": "the-globe-and-mail",
+              "name": "The Globe And Mail"
+          },
+          "author": "Unknown",
+          "title": "Panic at the crypto",
+          "description": "Cryptocurrencies have taken another beating this week. Globe columnist Tim Kiladze makes sense of this latest crash",
+          "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-panic-at-the-crypto/",
+          "urlToImage": "https://www.theglobeandmail.com/resizer/_avQSW-gNb8XMlBIpkC-PJlBCCk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GHQ5WM2SKJDSDH53LMIWUHHUSA.png",
+          "publishedAt": "2022-06-16T09:00:00Z",
+          "content": "Cryptocurrencies have taken another dive this week. And this crash follows seven months of declines, even for the big names in the game. Bitcoin, for example, is down more than 60 per cent from its p… [+339 chars]"
+      }
+  ]
+}
